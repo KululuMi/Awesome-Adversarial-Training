@@ -1,5 +1,5 @@
 # Awesome-Adversarial-Training
 Here is a paper list about **Adversarial Training**
 ## Survey
-IJCAI2021[https://www.ijcai.org/proceedings/2021/0591.pdf]
+Recent Advances in Adversarial Training for Adversarial Robustness[[paper](https://www.ijcai.org/proceedings/2021/0591.pdf)](IJCAI2021)  
 
