@@ -1,2 +1,3 @@
 # Awesome-Adversarial-Training
-Adversarial Training paper list
+Here is a paper list about *Adversarial Training*
+
