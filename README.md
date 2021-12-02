@@ -22,6 +22,8 @@ Adversarially Robust Generalization Requires More Data[[paper](https://proceedin
 On Adaptive Attacks to Adversarial Example Defenses[[paper](https://arxiv.org/pdf/2002.08347.pdf)](NIPS2020)    
 
 ## Data Augmentation
+Overfitting in adversarially robust deep learning[[paper](https://arxiv.org/pdf/2002.11569.pdf)](ICML2020)    
+
 ## Unsupervised/Semi-supervised
 ## Adaptive epsilon/Curriculum Learning
 ## Efficient Adversarial Training
@@ -30,3 +32,4 @@ On Adaptive Attacks to Adversarial Example Defenses[[paper](https://arxiv.org/pd
 ## Transformer and other network architectures
 Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs[[paper](https://arxiv.org/pdf/2110.02797.pdf)](arXiv2021)     
 ON THE ADVERSARIAL ROBUSTNESS OF VISION TRANSFORMERS[[paper](https://arxiv.org/pdf/2103.15670.pdf)](arXiv2021) 
+## Others (Different from Adversarial Training)
