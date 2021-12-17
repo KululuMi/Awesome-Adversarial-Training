@@ -4,7 +4,7 @@ Here is a paper list about **Adversarial Training**
 [MIT madry Lab](http://madry-lab.ml/)    
 [Bo Li](https://aisecure.github.io/)    
 [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml)    
-
+[Quanshi Zhang](http://qszhang.com/)
 
 ## Survey
 Recent Advances in Adversarial Training for Adversarial Robustness[[paper](https://www.ijcai.org/proceedings/2021/0591.pdf)](IJCAI2021)  
@@ -30,10 +30,10 @@ Unlabeled data improves adversarial robustness(NIPS2019)
 Adversarially robust generalization just requires more unlabeled data(arXiv2019)    
 Using self-supervised learning can improve model robustness and uncertainty(NIPS2019)
 ## Adaptive epsilon/Curriculum Learning
-Attacks Which Do Not Kill Training Make Adversarial Learning Stronger(ICML2020)
-Curriculum adversarial training(IJCAI2018)
-On the convergence and robustness of adversarial training.(ICML2019)
-Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets(arXiv2019)
+Attacks Which Do Not Kill Training Make Adversarial Learning Stronger(ICML2020)   
+Curriculum adversarial training(IJCAI2018)   
+On the convergence and robustness of adversarial training.(ICML2019)  
+Instance adaptive adversarial training: Improved accuracy tradeoffs in neural nets(arXiv2019)    
 
 ## Efficient Adversarial Training
 ## Ensemble Adversarial Training
