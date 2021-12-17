@@ -23,6 +23,7 @@ On Adaptive Attacks to Adversarial Example Defenses[[paper](https://arxiv.org/pd
 ## Data Augmentation
 Overfitting in adversarially robust deep learning[[paper](https://arxiv.org/pdf/2002.11569.pdf)](ICML2020)    
 ROBUST LOCAL FEATURES FOR IMPROVING THE GENERALIZATION OF ADVERSARIAL TRAINING[[paper](https://arxiv.org/pdf/1909.10147.pdf)](ICLR2020)
+Fixing Data Augmentation to Improve Adversarial Robustness[[paper](https://arxiv.org/pdf/2103.01946.pdf)](arXiv2020)
 ## Unsupervised/Semi-supervised
 Are labels required for improving adversarial robustness?(NIPS2019)    
 Unlabeled data improves adversarial robustness(NIPS2019)    
@@ -41,4 +42,7 @@ Instance adaptive adversarial training: Improved accuracy tradeoffs in neural ne
 Adversarial Robustness Comparison of Vision Transformer and MLP-Mixer to CNNs[[paper](https://arxiv.org/pdf/2110.02797.pdf)](arXiv2021)         
 ON THE ADVERSARIAL ROBUSTNESS OF VISION TRANSFORMERS[[paper](https://arxiv.org/pdf/2103.15670.pdf)](arXiv2021)     
 ## Robust Architecture
+## Others
+ADVERSARIAL ROBUSTNESS THROUGH THE LENS OF CAUSALITY[[paper](https://openreview.net/pdf?id=cZAi1yWpiXQ)](ICLR2022)
 ## Except for Adversarial Training
+Adversarial Robustness without Adversarial Training: A Teacher-Guided Curriculum Learning Approach[[paper](https://openreview.net/forum?id=MqCzSKCQ1QB)](NIPS2021)
