@@ -46,28 +46,27 @@ ON THE ADVERSARIAL ROBUSTNESS OF VISION TRANSFORMERS[[paper](https://arxiv.org/p
 ADVERSARIAL ROBUSTNESS THROUGH THE LENS OF CAUSALITY[[paper](https://openreview.net/pdf?id=cZAi1yWpiXQ)](ICLR2022)
 ## Except for Adversarial Training
 Adversarial Robustness without Adversarial Training: A Teacher-Guided Curriculum Learning Approach[[paper](https://openreview.net/forum?id=MqCzSKCQ1QB)](NIPS2021)
-## Robust Transfer Learning
-ICSE-22 ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing | Code | Blog | Video
+## Robust Transfer Learning(Folked from [jindongwang](https://github.com/jindongwang/transferlearning))
+- ICSE-22 [ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing](https://link.zhihu.com/?target=https%3A//jd92.wang/assets/files/icse22-remos.pdf) | [Code](https://github.com/ziqi-zhang/ReMoS_artifact) | [Blog](https://zhuanlan.zhihu.com/p/446453487) | [Video](https://www.bilibili.com/video/BV1mi4y1C7bP)
+  - Safe transfer learning by reducing defect inheritance
+  - 安全迁移学习的最新工作
 
-Safe transfer learning by reducing defect inheritance
-安全迁移学习的最新工作
-CVPR workshop-21 Renofeation: A Simple Transfer Learning Method for Improved Adversarial Robustness
+- CVPR workshop-21 [Renofeation: A Simple Transfer Learning Method for Improved Adversarial Robustness](https://openaccess.thecvf.com/content/CVPR2021W/TCV/html/Chin_Renofeation_A_Simple_Transfer_Learning_Method_for_Improved_Adversarial_Robustness_CVPRW_2021_paper.html)
+  - Improve adversarial robustness of transfer learning models
+  - 提高迁移学习对于adversarial robustness的鲁棒性
 
-Improve adversarial robustness of transfer learning models
-提高迁移学习对于adversarial robustness的鲁棒性
-ICLR-20 A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning
+- ICLR-20 [A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning](https://openreview.net/forum?id=BylVcTNtDS)
+  - Softmax layer is easy to get attacked
+  - 设计实验来攻击迁移学习的softmax layer
 
-Softmax layer is easy to get attacked
-设计实验来攻击迁移学习的softmax layer
-RAID'18 Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks
+- RAID'18 [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://link.springer.com/chapter/10.1007/978-3-030-00470-5_13)
+  - Finetune and prune the weights against backdoor attack
+  - 在finetune过程中剪枝来预防后门攻击
 
-Finetune and prune the weights against backdoor attack
-在finetune过程中剪枝来预防后门攻击
-ACM CCS-18 Model-Reuse Attacks on Deep Learning Systems
+- ACM CCS-18 [Model-Reuse Attacks on Deep Learning Systems](https://dl.acm.org/doi/10.1145/3243734.3243757)
+  - Model-resuse attack on transfer learning models
+  - 设计实验来攻击迁移学习的预训练模型
 
-Model-resuse attack on transfer learning models
-设计实验来攻击迁移学习的预训练模型
-USENIX Security-18 With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning
-
-First work to design experiments to attack pretrained models
-第一个设计实验来攻击预训练模型的工作
+- USENIX Security-18 [With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-wang.pdf)
+  - First work to design experiments to attack pretrained models
+  - 第一个设计实验来攻击预训练模型的工作
