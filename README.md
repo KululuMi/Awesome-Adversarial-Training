@@ -23,7 +23,7 @@ On Adaptive Attacks to Adversarial Example Defenses[[paper](https://arxiv.org/pd
 ## Data Augmentation
 Overfitting in adversarially robust deep learning[[paper](https://arxiv.org/pdf/2002.11569.pdf)](ICML2020)    
 ROBUST LOCAL FEATURES FOR IMPROVING THE GENERALIZATION OF ADVERSARIAL TRAINING[[paper](https://arxiv.org/pdf/1909.10147.pdf)](ICLR2020)
-Fixing Data Augmentation to Improve Adversarial Robustness[[paper](https://arxiv.org/pdf/2103.01946.pdf)](arXiv2020)
+Fixing Data Augmentation to Improve Adversarial Robustness[[paper](https://arxiv.org/pdf/2103.01946.pdf)](NIPS2021)
 ## Unsupervised/Semi-supervised
 Are labels required for improving adversarial robustness?(NIPS2019)    
 Unlabeled data improves adversarial robustness(NIPS2019)    
@@ -46,3 +46,28 @@ ON THE ADVERSARIAL ROBUSTNESS OF VISION TRANSFORMERS[[paper](https://arxiv.org/p
 ADVERSARIAL ROBUSTNESS THROUGH THE LENS OF CAUSALITY[[paper](https://openreview.net/pdf?id=cZAi1yWpiXQ)](ICLR2022)
 ## Except for Adversarial Training
 Adversarial Robustness without Adversarial Training: A Teacher-Guided Curriculum Learning Approach[[paper](https://openreview.net/forum?id=MqCzSKCQ1QB)](NIPS2021)
+## Robust Transfer Learning
+ICSE-22 ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing | Code | Blog | Video
+
+Safe transfer learning by reducing defect inheritance
+安全迁移学习的最新工作
+CVPR workshop-21 Renofeation: A Simple Transfer Learning Method for Improved Adversarial Robustness
+
+Improve adversarial robustness of transfer learning models
+提高迁移学习对于adversarial robustness的鲁棒性
+ICLR-20 A Target-Agnostic Attack on Deep Models: Exploiting Security Vulnerabilities of Transfer Learning
+
+Softmax layer is easy to get attacked
+设计实验来攻击迁移学习的softmax layer
+RAID'18 Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks
+
+Finetune and prune the weights against backdoor attack
+在finetune过程中剪枝来预防后门攻击
+ACM CCS-18 Model-Reuse Attacks on Deep Learning Systems
+
+Model-resuse attack on transfer learning models
+设计实验来攻击迁移学习的预训练模型
+USENIX Security-18 With Great Training Comes Great Vulnerability: Practical Attacks against Transfer Learning
+
+First work to design experiments to attack pretrained models
+第一个设计实验来攻击预训练模型的工作
