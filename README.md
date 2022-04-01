@@ -46,7 +46,7 @@ ON THE ADVERSARIAL ROBUSTNESS OF VISION TRANSFORMERS[[paper](https://arxiv.org/p
 ADVERSARIAL ROBUSTNESS THROUGH THE LENS OF CAUSALITY[[paper](https://openreview.net/pdf?id=cZAi1yWpiXQ)](ICLR2022)
 ## Except for Adversarial Training
 Adversarial Robustness without Adversarial Training: A Teacher-Guided Curriculum Learning Approach[[paper](https://openreview.net/forum?id=MqCzSKCQ1QB)](NIPS2021)
-## Robust Transfer Learning(Folked from [jindongwang](https://github.com/jindongwang/transferlearning))
+## Robust Transfer Learning(forked from [jindongwang](https://github.com/jindongwang/transferlearning))
 - ICSE-22 [ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing](https://link.zhihu.com/?target=https%3A//jd92.wang/assets/files/icse22-remos.pdf) | [Code](https://github.com/ziqi-zhang/ReMoS_artifact) | [Blog](https://zhuanlan.zhihu.com/p/446453487) | [Video](https://www.bilibili.com/video/BV1mi4y1C7bP)
   - Safe transfer learning by reducing defect inheritance
   - 安全迁移学习的最新工作
